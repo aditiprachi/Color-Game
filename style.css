@@ -1,0 +1,45 @@
+body {
+  background-color: #232323;
+  margin: 0;
+
+}
+h1 {
+  color: white;
+  text-align: center;
+  background: steelblue;
+  margin: 0;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+.head{
+  margin-top: 2.5em;
+}
+.square {
+  width: 30%;
+  padding-bottom:30%;
+  background-color: pink;
+  margin: 1.66% 1.66%;
+  float: left;
+  border-radius: 50%;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+.main {
+  padding-top: 10em;
+}
+.first {
+  padding-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+#strip {
+  background: white;
+  height: 40px;
+  text-align: center;
+  color: black;
+}
+
+.selected {
+  background-color: blue;
+}
